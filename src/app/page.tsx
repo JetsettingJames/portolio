@@ -45,7 +45,7 @@ export default function Home() {
       </header>
 
       {/* About Section */}
-      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12 ">
+      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold mb-4">About Me</h2>
         <p>
           I am a passionate full stack developer working in the finance sector in London. I specialize in building high-performance web applications and have a keen interest in the latest web technologies and AI. As the founder of the London AI Network, my mission is to create a silicon-like experience for developers, founders, and VCs in London.
@@ -53,7 +53,7 @@ export default function Home() {
       </section>
 
       {/* Skills Section */}
-      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
+      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold mb-4">Skills</h2>
         <ul className="grid grid-cols-2 gap-4">
           <li>JavaScript</li>
@@ -70,23 +70,23 @@ export default function Home() {
       </section>
 
       {/* Projects Section */}
-      {/* </main><section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12"> */}
-        {/* <h2 className="text-3xl font-semibold mb-4">Projects</h2>
+      {/* <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
+        <h2 className="text-3xl font-semibold mb-4">Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div className="bg-gray-50 dark:bg-gray-700 text-gray-900 dark:text-gray-200 p-6 rounded-lg shadow-lg">
+          <div className="bg-gray-50 dark:bg-gray-600 text-gray-900 dark:text-gray-200 p-6 rounded-lg shadow-lg">
             <h3 className="text-2xl font-semibold mb-2">Finance Tracker</h3>
             <p>A web application to track personal finances and investments, built with React, Node.js, and MongoDB.</p>
           </div>
-          <div className="bg-gray-50 dark:bg-gray-700 text-gray-900 dark:text-gray-200 p-6 rounded-lg shadow-lg">
+          <div className="bg-gray-50 dark:bg-gray-600 text-gray-900 dark:text-gray-200 p-6 rounded-lg shadow-lg">
             <h3 className="text-2xl font-semibold mb-2">AI Network Platform</h3>
             <p>The official platform for the London AI Network, built with Next.js and Tailwind CSS, providing resources and community features for developers and founders.</p>
           </div>
           {/* Add more projects as needed */}
-        {/* </div> * */}
-      {/* // </section> */}
+        {/* </div> */}
+      {/* </section> */}
 
       {/* Newsletter Signup Button */}
-      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
+      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold mb-4">Newsletter</h2>
         <p className="mb-4">Stay updated with the latest news and updates from the London AI Network. Sign up for my newsletter!</p>
         <a
@@ -100,7 +100,7 @@ export default function Home() {
       </section>
 
       {/* Contact Section */}
-      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
+      <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold mb-4">Contact</h2>
         <p className="mb-4">Feel free to reach out to me via email or connect with me on LinkedIn.</p>
         <p>Email: <a href="mailto:unsworth.jamesa@gmail.com" className="text-blue-500 dark:text-blue-300">unsworth.jamesa@gmail.com</a></p>
