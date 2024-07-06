@@ -40,7 +40,7 @@ export default function Home() {
           height={150}
         />
         <h1 className="text-4xl font-bold mt-4">James Unsworth</h1>
-        <p className="text-xl">Full Stack Developer in Finance | Founder of London AI Network</p>
+        <p className="text-xl">Full Stack Developer in Finance | Founder of London AI Nexus</p>
         <p className="text-lg mt-2">London, UK | 20 years old</p>
       </header>
 
@@ -48,7 +48,7 @@ export default function Home() {
       <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold mb-4">About Me</h2>
         <p>
-          I am a passionate full stack developer working in the finance sector in London. I specialize in building high-performance web applications and have a keen interest in the latest web technologies and AI. As the founder of the London AI Network, my mission is to create a silicon-like experience for developers, founders, and VCs in London.
+          I am a passionate full stack developer working in the finance sector in London. I specialize in building high-performance web applications and have a keen interest in the latest web technologies and AI. As the founder of the London AI Nexus, my mission is to create a silicon-like experience for developers, founders, and VCs in London.
         </p>
       </section>
 
@@ -88,7 +88,7 @@ export default function Home() {
       {/* Newsletter Signup Button */}
       <section className="w-full max-w-4xl mx-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-200 shadow-md rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold mb-4">Newsletter</h2>
-        <p className="mb-4">Stay updated with the latest news and updates from the London AI Network. Sign up for my newsletter!</p>
+        <p className="mb-4">Stay updated with the latest news and updates from the London AI Nexus. Sign up for my newsletter!</p>
         <a
           href="https://londonainexus.substack.com/"
           target="_blank"
